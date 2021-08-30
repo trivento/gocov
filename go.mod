@@ -2,4 +2,7 @@ module github.com/trivento/gocov
 
 go 1.17
 
-require golang.org/x/tools v0.0.0-20190617190820-da514acc4774
+require (
+	github.com/axw/gocov v1.0.0
+	golang.org/x/tools v0.1.5
+)

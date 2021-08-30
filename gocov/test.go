@@ -30,7 +30,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/axw/gocov/gocov/internal/testflag"
+	"github.com/trivento/gocov/gocov/internal/testflag"
 )
 
 // resolvePackages returns a slice of resolved package names, given a slice of
