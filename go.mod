@@ -1,4 +1,4 @@
-module github.com/axw/gocov
+module github.com/trivento/gocov
 
 go 1.17
 
